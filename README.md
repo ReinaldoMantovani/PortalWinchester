@@ -5,7 +5,6 @@
 ## HTML
 ## CSS
 ## JAVASCRIPT
-## REACT.JS
 ## EXPRESS
 ## EJS
 ## MONGOOSE
